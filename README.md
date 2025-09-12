@@ -12,7 +12,8 @@ I would describe myself as a passionate and curious learner who enjoys exploring
 - **Student Attendance Management System** – A digital system designed to efficiently track and manage student attendance records.
 - **LockGuard** – A security-focused project designed to provide advanced protection and monitoring features for safeguarding personal or institutional digital assets.
 - **Quiz & Exam Management System** – A comprehensive system for creating, managing, and evaluating quizzes and examinations with automated grading.
-- (For more details and in-depth explanations of these projects, please visit my GitHub repository.)
+
+<small>📁 For more details and in-depth explanations of these projects, please visit my GitHub repository.</small>
 
 ## Languages I Use
 
