@@ -34,12 +34,11 @@ I would describe myself as a passionate and curious learner who enjoys exploring
 
 ## Top Repositories
 
-[![IIT CP Community Website](https://github-readme-stats.vercel.app/api/pin/?username=AmmarHamim&repo=IIT_CP_Community_Website&theme=default)](https://github.com/AmmarHamim/IIT_CP_Community_Website)
+[![IIT CP Community Website](https://github-readme-stats.vercel.app/api/pin/?username=AmmarHamim&repo=IIT_CP_Community_WebsiteDesign&theme=default)](https://github.com/AmmarHamim/IIT_CP_Community_Website)
 
 ## Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ammar.hamim.5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ammarhamim_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-hamim-811h)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarhamim7%gmail.com)
