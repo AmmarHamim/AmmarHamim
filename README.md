@@ -35,7 +35,7 @@ I would describe myself as a passionate and curious learner who enjoys exploring
 
 ## Top Repositories
 
-[![IIT CP Community Website](https://github-readme-stats.vercel.app/api/pin/?username=AmmarHamim&repo=IIT_CP_Community_WebsiteDesign&theme=default)](https://github.com/AmmarHamim/IIT_CP_Community_Website)
+[![IIT CP Community Website](https://github-readme-stats.vercel.app/api/pin/?username=AmmarHamim&repo=IIT_CP_Community_WebsiteDesign&theme=default)](https://github.com/AmmarHamim/IIT_CP_Community_WebsiteDesign.git)
 
 ## Connect with Me
 
