@@ -4,7 +4,7 @@
 
 ## About Me
 
-I would describe myself as a passionate and curious learner who enjoys exploring different areas of computer science.For me, coding is more than just writing programs—it’s about creating solutions that can help people. I enjoy exploring software, solving problems, and learning new things every day as I grow in the field of computer science.✨ Building projects that matter
+I would describe myself as a passionate and curious learner who enjoys exploring different areas of computer science. For me, coding is more than just writing programs—it’s about creating solutions that can help people. I enjoy exploring software, solving problems, and learning new things every day as I grow in the field of computer science.✨ Building projects that matter
 
 ## Projects
 
