@@ -38,7 +38,7 @@ I'm a curious learner who enjoys exploring different areas of computer science. 
 
 | Project | Description |
 | --- | --- |
-| **[Krishok Bondhu (কৃষক বন্ধু)](https://github.com/Md-Shaon-Khan/Farmer-s-Friend.git)** 🤝 | *Farmer's Friend.* A paddy disease classifier built on a deep learning ensemble (EfficientNetB0, ResNet50, DenseNet121), trained on ~49,000 images from 6 datasets. It detects 5 rice leaf conditions with ~97% validation accuracy, and a binary gatekeeper model rejects non-paddy inputs. |
+| **[Krishok Bondhu (কৃষক বন্ধু)](https://github.com/Md-Shaon-Khan/Farmer-s-Friend.git)** 🤝 | *Krishok Bondhu.* A paddy disease classifier built on a deep learning ensemble (EfficientNetB0, ResNet50, DenseNet121), trained on ~49,000 images from 6 datasets. It detects 5 rice leaf conditions with ~97% validation accuracy, and a binary gatekeeper model rejects non-paddy inputs. |
 | **[ArogyoAI](https://github.com/AmmarHamim/ArogyoAI.git)** | An AI-powered clinical decision support platform for preliminary screening and risk assessment in Bangladesh. It analyzes symptoms, medical reports, and diagnostic images, and includes patient history management and a real-time doctor dashboard. Built for the Infinity AI BuildFest Hackathon at IIT, JU. |
 | **[ExamDesk for Jahangirnagar University](https://github.com/AmmarHamim/ExamDesk-for-Jahangirnagar-University)** | A website that digitalizes exam form fill-up and pre-exam activities, with integrated digital payments. |
 | **[Neuro Scan AI](https://github.com/AmmarHamim/neuro-scan-ai.git)** | A deep learning web app that classifies brain CT scan images into 5 disease categories using a fine-tuned ResNet-50 model, with instant predictions and confidence scores through an interactive Streamlit interface. |
