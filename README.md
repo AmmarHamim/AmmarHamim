@@ -2,7 +2,7 @@
 
 <hr/>
 
-<h3 align="center">Undergraduate Student | Software Developer | Problem Solver | Builder of Useful Things</h3>
+<h3 align="center">Undergraduate Student | AI, ML, DL Expert | Problem Solver | Builder of Useful Things</h3>
 
 <p align="center">
   <b>B.Sc. in Information Technology</b> &nbsp;|&nbsp; CGPA: 3.91/4.00 (upto 4th semester)
